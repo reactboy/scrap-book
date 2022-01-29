@@ -1,5 +1,5 @@
 ---
-title: command-line
+title: command-line files
 date: 2022-01-05
 categories: [command-line]
 tags: []

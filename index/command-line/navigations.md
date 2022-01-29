@@ -1,5 +1,5 @@
 ---
-title: command line
+title: command line navigations
 date: 2022-01-04
 categories: [command-line]
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: command lines
+title: command line redirections
 date: 2022-01-09
 categories: [command-line]
 tags: []
