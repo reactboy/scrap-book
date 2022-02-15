@@ -46,3 +46,7 @@ Version:
 
 ```
 上記は最低限のものでこれ以外の情報も設定できる。[ref](https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/#example)
+
+
+***
+wp開発環境の構築 [[setup-dev-environment]]
